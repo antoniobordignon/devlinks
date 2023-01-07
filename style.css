@@ -62,3 +62,12 @@ ul li a:hover {
     background: rgba(255, 255, 255, 0.05);
     border: 1.5px solid white;
 }
+
+ion-icon {
+    padding-right: 2%;
+}
+
+.shadow:hover {
+    box-shadow: .5em .5em rgba(255, 255, 255, 0.1);
+    border-radius: 8px
+}
