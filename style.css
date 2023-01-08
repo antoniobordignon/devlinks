@@ -22,6 +22,10 @@
     --switch-bg-url: url(./assets/sun.svg);
 }
 
+html {
+    overflow: hidden;
+}
+
 body {
     background: var(--bg-url) no-repeat top center/cover;
     height: 100vh;
